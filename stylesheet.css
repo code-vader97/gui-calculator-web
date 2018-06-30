@@ -1,0 +1,60 @@
+/* Header Style Rules*/
+header {
+	background: #eddd36;
+	border-radius: 25px;
+	text-align: center;
+	font-family: cursive;
+	color: #333;
+}
+
+/* Section Style Rules*/
+section{
+	background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+	border-radius: 25px;
+}
+table{
+	background: #111;
+	overflow: hidden;
+	margin: auto;
+	border-radius: 8px;
+}
+#display{
+	width: 100%;
+	height: 40px;
+	font-size: 1em;
+	text-align: right;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 8px;
+}
+
+.button{
+	background: #ccc;
+	width:60px;
+	border: none;
+	color: #222;
+	font-weight: bold;
+	padding: 15px 15px;
+	text-align: center;
+	font-size: 1em;
+	border-radius: 8px;
+}
+
+.button:hover{
+	background: #fff;
+}
+
+.operator:hover{
+	background: #d12929;
+	color: white;
+}
+
+/* Footer Style Rules*/
+footer{
+	background: #eddd36;
+	border-radius: 25px;
+	text-align: center;
+	font-family: cursive;
+	color: #000;
+}
